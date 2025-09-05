@@ -1,4 +1,3 @@
-# sesi5_anandayudhistira
 <div align="left" style="position: relative;">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>SESI5_ANANDAYUDHISTIRA</h1>
@@ -154,6 +153,15 @@ echo 'INSERT-TEST-COMMAND-HERE'
 
 ---
 
+## 🔰 Contributing
+
+- **💬 [Join the Discussions](https://github.com/force-kebo/sesi5_anandayudhistira/discussions)**: Share your insights, provide feedback, or ask questions.
+- **🐛 [Report Issues](https://github.com/force-kebo/sesi5_anandayudhistira/issues)**: Submit bugs found or log feature requests for the `sesi5_anandayudhistira` project.
+- **💡 [Submit Pull Requests](https://github.com/force-kebo/sesi5_anandayudhistira/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+
+<details closed>
+<summary>Contributing Guidelines</summary>
+
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
@@ -185,6 +193,12 @@ echo 'INSERT-TEST-COMMAND-HERE'
    </a>
 </p>
 </details>
+
+---
+
+## 🎗 License
+
+This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
 
